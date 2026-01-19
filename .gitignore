@@ -1,0 +1,5 @@
+*
+!.gitignore
+!ec2-instance/
+!ec2_module/
+!terraform-projects/
