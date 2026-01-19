@@ -1,0 +1,26 @@
+2026-01-19 16:55:59.737 [info] 
+
+
+
+
+2026-01-19 16:55:59.761 [info] Extension host agent started.
+2026-01-19 16:56:02.856 [info] [192.168.104.14][4fe9f8de][ManagementConnection] New connection established.
+2026-01-19 16:56:05.470 [info] [192.168.104.14][9a24eec1][ExtensionHostConnection] New connection established.
+2026-01-19 16:56:07.132 [info] [192.168.104.14][9a24eec1][ExtensionHostConnection] <3950> Launched Extension Host Process.
+2026-01-19 16:56:14.007 [info] Getting Manifest... esbenp.prettier-vscode
+2026-01-19 16:56:14.008 [info] Getting Manifest... ms-python.python
+2026-01-19 16:56:14.424 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.91.1","date":"2024-07-15T17:58:33.007Z"},"pinned":false,"isApplicationScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/root/.local/share/code-server/extensions/extensions.json","external":"file:///root/.local/share/code-server/extensions/extensions.json","path":"/root/.local/share/code-server/extensions/extensions.json","scheme":"file"}}
+2026-01-19 16:56:14.493 [info] Installing extension: esbenp.prettier-vscode {"productVersion":{"version":"1.91.1","date":"2024-07-15T17:58:33.007Z"},"pinned":false,"isApplicationScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/root/.local/share/code-server/extensions/extensions.json","external":"file:///root/.local/share/code-server/extensions/extensions.json","path":"/root/.local/share/code-server/extensions/extensions.json","scheme":"file"}}
+2026-01-19 16:56:14.767 [info] Getting Manifest... ms-python.debugpy
+2026-01-19 16:56:14.886 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.91.1","date":"2024-07-15T17:58:33.007Z"},"pinned":false,"isApplicationScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/root/.local/share/code-server/extensions/extensions.json","external":"file:///root/.local/share/code-server/extensions/extensions.json","path":"/root/.local/share/code-server/extensions/extensions.json","scheme":"file"},"context":{"dependecyOrPackExtensionInstall":true}}
+2026-01-19 16:56:15.275 [info] Extracted extension to file:///root/.local/share/code-server/extensions/esbenp.prettier-vscode-11.0.2-universal: esbenp.prettier-vscode
+2026-01-19 16:56:15.280 [info] Renamed to /root/.local/share/code-server/extensions/esbenp.prettier-vscode-11.0.2-universal
+2026-01-19 16:56:15.346 [info] Marked extension as uninstalled esbenp.prettier-vscode-11.0.0-universal
+2026-01-19 16:56:15.351 [info] Extension installed successfully: esbenp.prettier-vscode file:///root/.local/share/code-server/extensions/extensions.json
+2026-01-19 16:56:17.340 [info] Extracted extension to file:///root/.local/share/code-server/extensions/ms-python.debugpy-2024.8.0-linux-x64: ms-python.debugpy
+2026-01-19 16:56:17.344 [info] Renamed to /root/.local/share/code-server/extensions/ms-python.debugpy-2024.8.0-linux-x64
+2026-01-19 16:56:20.729 [info] Extracted extension to file:///root/.local/share/code-server/extensions/ms-python.python-2024.14.1-universal: ms-python.python
+2026-01-19 16:56:20.734 [info] Renamed to /root/.local/share/code-server/extensions/ms-python.python-2024.14.1-universal
+2026-01-19 16:56:20.763 [info] Marked extension as uninstalled ms-python.python-2021.5.829140558
+2026-01-19 16:56:20.831 [info] Extension installed successfully: ms-python.debugpy file:///root/.local/share/code-server/extensions/extensions.json
+2026-01-19 16:56:20.831 [info] Extension installed successfully: ms-python.python file:///root/.local/share/code-server/extensions/extensions.json

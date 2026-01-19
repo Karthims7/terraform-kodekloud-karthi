@@ -1,0 +1,5 @@
+2025-03-13 08:15:02.688 [info] Getting Manifest... esbenp.prettier-vscode
+2025-03-13 08:15:02.920 [info] Installing extension: esbenp.prettier-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"isBuiltin":false,"installGivenVersion":false,"isApplicationScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/root/.local/share/code-server/extensions/extensions.json","external":"file:///root/.local/share/code-server/extensions/extensions.json","path":"/root/.local/share/code-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.1","date":"2024-07-15T18:41:47.410Z"}}
+2025-03-13 08:15:04.481 [info] Extracted extension to file:///root/.local/share/code-server/extensions/esbenp.prettier-vscode-11.0.0-universal: esbenp.prettier-vscode
+2025-03-13 08:15:04.486 [info] Renamed to /root/.local/share/code-server/extensions/esbenp.prettier-vscode-11.0.0-universal
+2025-03-13 08:15:04.500 [info] Extension installed successfully: esbenp.prettier-vscode file:///root/.local/share/code-server/extensions/extensions.json
